@@ -1,3 +1,4 @@
 
-![deshboard serch](https://github.com/ankki457/Weather-Dashboard-React/assets/130775560/feb72a05-9e2d-4154-bb1d-7279b5e00191)
-![Wather](https://github.com/ankki457/Weather-Dashboard-React/assets/130775560/527e42d5-dcdb-4387-a680-d5094a1c15e6)
+
+![deshboard serch](https://github.com/ankki457/Weather-Dashboard-React/assets/130775560/18d04acd-5630-4560-986e-72511738e568)
+![Wather](https://github.com/ankki457/Weather-Dashboard-React/assets/130775560/a81cc842-4a7a-4aa2-8f8b-cfe9ee44cb22)
