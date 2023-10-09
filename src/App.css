@@ -1,4 +1,3 @@
-/* App.css */
 body {
   margin: 0;
   padding: 0;
@@ -46,7 +45,6 @@ body {
   text-align: center;
 }
 
-/* SearchBar.css */
 .search-bar {
   display: flex;
   flex-direction: column;
@@ -73,7 +71,6 @@ button {
   cursor: pointer;
 }
 
-/* WeatherDisplay.css */
 .weather-display {
   text-align: center;
 }
@@ -99,7 +96,6 @@ button {
   max-width: 100px;
 }
 
-/* UnitToggle.css */
 .unit-toggle {
   display: flex;
   align-items: center;
@@ -117,15 +113,13 @@ button {
   margin-right: 0.5rem;
 }
 
-/* ErrorMessage.css */
 .error-message {
   color: #ff0000;
   font-size: 16px;
   margin-top: 1rem;
   text-align: center;
 }
-/* App.css */
-/* Add styles for cards and search bar */
+
 .weather-card {
   background-color: #fff;
   border: 1px solid #ccc;
@@ -156,7 +150,6 @@ button {
   justify-content: space-between;
 }
 
-/* Style the search bar */
 .search-form {
   display: flex;
   justify-content: center;
@@ -183,7 +176,6 @@ button {
   margin-left: 1rem;
 }
 
-/* Add media queries for responsiveness */
 @media (max-width: 768px) {
   /* Adjust styles for smaller screens */
   .weather-card {
