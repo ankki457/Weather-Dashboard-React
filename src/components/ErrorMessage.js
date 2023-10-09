@@ -1,4 +1,3 @@
-// ErrorMessage.js
 import React from 'react';
 
 function ErrorMessage({ message }) {
