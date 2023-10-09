@@ -1,4 +1,3 @@
-// UnitToggle.js
 import React from 'react';
 
 function UnitToggle({ units, onToggle }) {
